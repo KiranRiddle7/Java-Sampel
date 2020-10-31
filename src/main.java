@@ -11,7 +11,7 @@ public class main {
 	    
 	    System.out.println("Value of C ="+c + "  "+ args[0]);
 	    
-	    //commit to github
+	    //commit to github now
 	}
 
 }
