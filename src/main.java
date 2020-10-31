@@ -10,6 +10,8 @@ public class main {
 	    c = a+b;
 	    
 	    System.out.println("Value of C ="+c + "  "+ args[0]);
+	    
+	    //commit to github
 	}
 
 }
